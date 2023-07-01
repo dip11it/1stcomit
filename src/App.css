@@ -1,0 +1,12 @@
+h2{
+    color:blanchedalmond;
+    padding: 10px 20px;
+    background-color: rgb(108, 68, 146);
+}
+button{
+    padding:8px 12px;
+    background-color:rgb(108, 68, 146);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
